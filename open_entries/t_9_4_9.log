@@ -1,0 +1,32 @@
+=== target n=9 k=4 w=9
+  [pure.py 9 4 9] UNSAT 4.6s
+  [degens.py 9 4 9 1 one] UNSAT 0.0s
+  [degens.py 9 4 9 2 same] UNSAT 0.0s
+  [degens.py 9 4 9 2 chain] UNSAT 0.0s
+  [degens.py 9 4 9 2 disj] UNSAT 0.0s
+  [degenr.py 9 4 9 3] UNSAT 0.1s
+  [degenr.py 9 4 9 4] UNSAT 0.1s
+  [degenr.py 9 4 9 5] UNSAT 0.1s
+  [pure.py 8 4 9] UNSAT 0.0s
+  [degens.py 8 4 9 1 one] UNSAT 0.0s
+  [degens.py 8 4 9 2 same] UNSAT 0.0s
+  [degens.py 8 4 9 2 chain] UNSAT 0.0s
+  [degens.py 8 4 9 2 disj] UNSAT 0.0s
+  [degenr.py 8 4 9 3] UNSAT 0.0s
+  [degenr.py 8 4 9 4] UNSAT 0.0s
+  [pure.py 7 4 9] UNSAT 0.0s
+  [degens.py 7 4 9 1 one] UNSAT 0.0s
+  [degens.py 7 4 9 2 same] UNSAT 0.0s
+  [degens.py 7 4 9 2 chain] UNSAT 0.0s
+  [degens.py 7 4 9 2 disj] UNSAT 0.0s
+  [degenr.py 7 4 9 3] UNSAT 0.0s
+  [pure.py 6 4 9] UNSAT 0.0s
+  [degens.py 6 4 9 1 one] UNSAT 0.0s
+  [degens.py 6 4 9 2 same] UNSAT 0.0s
+  [degens.py 6 4 9 2 chain] UNSAT 0.0s
+  [degens.py 6 4 9 2 disj] UNSAT 0.0s
+  [degenr.py 6 4 9 3] UNSAT 0.0s
+  [degenr.py 6 4 9 2] UNSAT 0.0s
+  [pure.py 5 4 9] UNSAT 0.0s
+  [degens.py 5 4 9 1 one] UNSAT 0.0s
+RESULT n=9 k=4 w=9: NONE

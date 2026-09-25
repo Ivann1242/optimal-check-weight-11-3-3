@@ -1,0 +1,6 @@
+.lake/
+*.olean
+*.aux
+*.log.tmp
+.DS_Store
+*.drat
